@@ -1,0 +1,6 @@
+{
+  "name": "Pustaka Rosa — Perpustakaan Digital Modern",
+  "description": "Perpustakaan digital modern bertema rose-pink dengan katalog interaktif, sistem peminjaman dan pengembalian buku, pratinjau baca online, serta penghitung kunjungan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
